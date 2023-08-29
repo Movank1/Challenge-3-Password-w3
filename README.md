@@ -1,5 +1,11 @@
 Password Generator
 
+My site: https://movank1.github.io/Challenge-3-Password-w3/
+
+https://github.com/Movank1/Challenge-3-Password-w3/settings/pages
+
+![Alt text](image-1.png)
+
 
 
 ## Acceptance Criteria
